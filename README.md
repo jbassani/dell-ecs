@@ -1,4 +1,5 @@
-# README
+# Script para coleta de informações do Cluster DELL ECS / Object Scale
+v.4.1.0
 
 ### Arquivos necessários
 Python3
